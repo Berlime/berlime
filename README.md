@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Kamil and I run a website digital agency, from Singapore.</p>
 
 ###
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Hugo for static sites.<br>🎯 Goals: To be on payroll by my own agency to get a decent HDB.<br>🎲 Fun fact: I don't write, I blog</p>
 
 ###
 
